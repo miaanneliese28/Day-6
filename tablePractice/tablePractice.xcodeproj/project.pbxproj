@@ -13,6 +13,7 @@
 		0D4BBE952301EABD002B2AD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D4BBE932301EABD002B2AD2 /* LaunchScreen.storyboard */; };
 		0D4BBEA02301EABD002B2AD2 /* tablePracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4BBE9F2301EABD002B2AD2 /* tablePracticeTests.swift */; };
 		0D4BBEAB2301EABD002B2AD2 /* tablePracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4BBEAA2301EABD002B2AD2 /* tablePracticeUITests.swift */; };
+		0D4BBEB92301EF11002B2AD2 /* pizzaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4BBEB82301EF11002B2AD2 /* pizzaTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		0D4BBEA62301EABD002B2AD2 /* tablePracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tablePracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D4BBEAA2301EABD002B2AD2 /* tablePracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tablePracticeUITests.swift; sourceTree = "<group>"; };
 		0D4BBEAC2301EABD002B2AD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D4BBEB82301EF11002B2AD2 /* pizzaTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pizzaTableViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0D4BBE912301EABD002B2AD2 /* Assets.xcassets */,
 				0D4BBE932301EABD002B2AD2 /* LaunchScreen.storyboard */,
 				0D4BBE962301EABD002B2AD2 /* Info.plist */,
+				0D4BBEB82301EF11002B2AD2 /* pizzaTableViewController.swift */,
 			);
 			path = tablePractice;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D4BBEB92301EF11002B2AD2 /* pizzaTableViewController.swift in Sources */,
 				0D4BBE8B2301EABB002B2AD2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
